@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Tic-Tac-Toe with AI (Java)/task/build/
+/Tic-Tac-Toe with AI (Java)/task/out/
+/Tic-Tac-Toe with AI (Java)/task/out/production/classes/
+/Topics/Random class/Find the seed/out/
+/Topics/Random class/Find the seed/out/production/classes/
+/util/build/
